@@ -1,0 +1,51 @@
+body{
+    background-image: url('https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2020/10/atomic-bent-chetler-review-header-1.jpg?fit=crop');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+}
+h1{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    margin: 0;
+}
+.tableaustyle{
+    display: block;
+      margin: auto;
+      position: fixed;
+}
+li{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.imgright{
+    float: right;
+    width: 25%;
+    height: 5%;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    position: static;
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(200, 200, 200);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainstuff{
+    position: absolute;
+    top: 250px;
+}
+.containter{
+    text-align: center;
+}
+h6{
+    display: inline-flex;
+    font-size: large;
+    background-color: rgb(200, 200, 200);;
+
+}
